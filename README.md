@@ -4,7 +4,9 @@ The project main documentation available at https://knowledge.fablabbcn.org
 
 ## Easy Usage
 
-Explain how to use the Github front-end directly
+Look into the `docs` folder for the Markdown documents which you can edit or sent a Pull Request.
+
+Example, here is a list of our projects: https://github.com/fablabbcn/knowledge/tree/master/docs/projects
 
 ## Usage
 
