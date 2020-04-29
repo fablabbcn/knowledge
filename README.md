@@ -10,7 +10,17 @@ Example, here is a list of our projects: https://github.com/fablabbcn/knowledge/
 
 ## Usage
 
-### Setup
+We encourage you to simply edit Markdown files directly on Github.
+
+If you want to build and test on your local machine, you need `python3`
+
+### Install project locally
+
+Python3 Virtual Env (recommended)
+
+`python3 -m venv venv`
+
+`source venv/bin/activate`
 
 `pip install mkdocs`
 
