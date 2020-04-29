@@ -21,7 +21,13 @@ jobs:
         python3 -m pip install --upgrade pip
         python3 -m pip install mkdocs mkdocs-material
 
-    - run: mkdocs build
+    - name: mkdocs build
+      run: |
+        pip freeze
+        pip --version
+        python --version
+        mkdocs --version
+        mkdocs build
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
