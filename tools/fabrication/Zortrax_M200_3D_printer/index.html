@@ -4557,32 +4557,32 @@ the 3D printing process of your choice.</p>
 they describe are “watertight”, that is, they do not contain holes or
 gaps. To check to see if your mesh is watertight, follow the steps
 below:</p>
-<p><code class="codehilite"><span class="err">1. Convert file to MESH</span></code>
-<code class="codehilite"><span class="err">-Select Object</span></code>
-<code class="codehilite"><span class="err">-Convert to Mesh by typing command &#39;MESH&#39;</span></code>
-<code class="codehilite"><span class="err">-Select Polygon Count &gt; The higher the polygon count, the smoother the surface finish</span></code>
-<code class="codehilite"><span class="err">2. Check the MESH for any errors</span></code>
-<code class="codehilite"><span class="err">-Type &#39;CHECKMESH&#39; to check mesh object for errors and problems, which include:</span></code>
-<code class="codehilite"><span class="err">• Degenerate faces - Fix with the CullDegenerateMeshFaces command.</span></code>
-<code class="codehilite"><span class="err">• Zero length edges - Zero-length edges typically are the result of degenerate faces. Fix with the CullDegenerateMeshFaces command.</span></code>
-<code class="codehilite"><span class="err">• Non-manifold edges - Use the CullDegenerateMeshFaces command and then fix with the ExtractNonManifoldMeshEdges command.</span></code>
-<code class="codehilite"><span class="err">• Naked edges - Naked edges can cause problems with rapid prototyping.</span></code>
-<code class="codehilite"><span class="err">Use the ShowEdges command to help find them or set the display mode to paint them a different color.</span></code>
-<code class="codehilite"><span class="err">Try the FillMeshHole, FillMeshHoles, or MatchMeshEdge commands to remove naked edges.</span></code>
-<code class="codehilite"><span class="err">If the mesh is still open, try the WELD Command.</span></code>
-<code class="codehilite"><span class="err">The Weld command will merge adjacent triangle points when 180 angle tolerance is set</span></code>
-<code class="codehilite"><span class="err">• Duplicate faces - Fix with the ExtractDuplicateMeshFaces command.</span></code>
-<code class="codehilite"><span class="err">• Faces with reversed normals. Fix with the UnifyMeshNormals command.</span></code>
-<code class="codehilite"><span class="err">• Disjoint pieces - Fix with the SplitDisjointMesh command.</span></code>
-<code class="codehilite"><span class="err">• Unused vertices - Unused vertices do not usually cause a problem, and there are no commands to for removing them in Rhino.</span></code>
-<code class="codehilite"><span class="err">Specific details on these commands can be found in the Rhino Help file.</span></code>
-<code class="codehilite"><span class="err">3. Once the mesh is watertight, it is ready to be exported.</span></code>
-<code class="codehilite"><span class="err">-File &gt; Save As</span></code>
-<code class="codehilite"><span class="err">-Select File Type as STL</span></code>
-<code class="codehilite"><span class="err">-Select File Name &gt; Save</span></code>
-<code class="codehilite"><span class="err">-Select Binary</span></code>
-<code class="codehilite"><span class="err">-As for the other settings, always select the standard options</span></code>
-<code class="codehilite"><span class="err">-Click OK</span></code></p>
+<p><code>1. Convert file to MESH</code>
+<code>-Select Object</code>
+<code>-Convert to Mesh by typing command 'MESH'</code>
+<code>-Select Polygon Count &gt; The higher the polygon count, the smoother the surface finish</code>
+<code>2. Check the MESH for any errors</code>
+<code>-Type 'CHECKMESH' to check mesh object for errors and problems, which include:</code>
+<code>• Degenerate faces - Fix with the CullDegenerateMeshFaces command.</code>
+<code>• Zero length edges - Zero-length edges typically are the result of degenerate faces. Fix with the CullDegenerateMeshFaces command.</code>
+<code>• Non-manifold edges - Use the CullDegenerateMeshFaces command and then fix with the ExtractNonManifoldMeshEdges command.</code>
+<code>• Naked edges - Naked edges can cause problems with rapid prototyping.</code>
+<code>Use the ShowEdges command to help find them or set the display mode to paint them a different color.</code>
+<code>Try the FillMeshHole, FillMeshHoles, or MatchMeshEdge commands to remove naked edges.</code>
+<code>If the mesh is still open, try the WELD Command.</code>
+<code>The Weld command will merge adjacent triangle points when 180 angle tolerance is set</code>
+<code>• Duplicate faces - Fix with the ExtractDuplicateMeshFaces command.</code>
+<code>• Faces with reversed normals. Fix with the UnifyMeshNormals command.</code>
+<code>• Disjoint pieces - Fix with the SplitDisjointMesh command.</code>
+<code>• Unused vertices - Unused vertices do not usually cause a problem, and there are no commands to for removing them in Rhino.</code>
+<code>Specific details on these commands can be found in the Rhino Help file.</code>
+<code>3. Once the mesh is watertight, it is ready to be exported.</code>
+<code>-File &gt; Save As</code>
+<code>-Select File Type as STL</code>
+<code>-Select File Name &gt; Save</code>
+<code>-Select Binary</code>
+<code>-As for the other settings, always select the standard options</code>
+<code>-Click OK</code></p>
 <h2 id="z-suite-software-manual">Z-SUITE Software Manual<a class="headerlink" href="#z-suite-software-manual" title="Permanent link">Link</a></h2>
 <p>Zortrax Z-SUITE software is created specifically for Zortrax machines.
 Z-SUITE allows opening a .stl, .obj or .dxf file and set printing
