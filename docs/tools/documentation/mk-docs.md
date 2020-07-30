@@ -3,7 +3,7 @@ MK Docs
 
 ## Theme
 
-We use the [Material theme](https://squidfunk.github.io/mkdocs-material/) for MK Docs. You can fins the updated features in the theme [specimen](https://squidfunk.github.io/mkdocs-material/specimen/). We also run most of the [available extensions](https://squidfunk.github.io/mkdocs-material/extensions/).
+We use the [Material theme](https://squidfunk.github.io/mkdocs-material/) for MK Docs. You can find the updated features in the theme [specimen](https://squidfunk.github.io/mkdocs-material/specimen/). We also run most of the [available extensions](https://squidfunk.github.io/mkdocs-material/extensions/).
 
 ## Specimen
 
