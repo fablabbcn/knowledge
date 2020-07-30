@@ -290,10 +290,20 @@ $$
 
 ### Assets 
 
-### Custom navigayion
+## Customization
 
-Explain on `mkdocs.yml`
+You can deeply customize it by simply editing the the `mkdocs.yml` file the root folder
 
-See Smart Citizen Docs as an example
+https://github.com/fablabbcn/knowledge/blob/master/mkdocs.yml 
 
-### Licensing
+An interesting feature is the possibility to manually customize navigation. See [Smart Citizen Docs](https://github.com/fablabbcn/smartcitizen-docs/blob/master/mkdocs.yml) as an example
+
+## Automation
+
+We use [Github Action](https://docs.github.com/en/actions) to automatically update [knowledge.fablabbcn.org](https://knowledge.fablabbcn.org/) every time you commit a change. 
+
+Currently we run a single workflow to simply build the site like `mkdocs build` but more complex features are possible
+
+https://github.com/fablabbcn/knowledge/blob/master/.github/workflows/main.yml
+
+## Licensing
