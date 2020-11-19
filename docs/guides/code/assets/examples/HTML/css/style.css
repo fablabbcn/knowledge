@@ -1,0 +1,26 @@
+body {
+  font-family: verdana;
+  background-color: #ABA7F5;
+  color: white;
+}
+h2  {
+  font-family: times;
+  color: black;
+  text-align: center;
+}
+.yellowParagraph {
+  font-family: arial;
+  font-size: 30px;
+  background-color: #F5DA93;
+  color: white;
+}
+#pinkelement {
+  font-family: century;
+  font-size: 20px;
+  font-style: italic;
+  color: #F536D3;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
