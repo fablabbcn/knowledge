@@ -1,379 +1,443 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://knowledge.fablabbcn.org/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/areas/bio-chains/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/educational%20programs/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/areas/distributed-design/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/educational%20programs/MDEF/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/areas/emergent-futures/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/educational%20programs/fabacademy/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/areas/future-learning/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/educational%20programs/fabricademy/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/areas/materials-textiles/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/educational%20programs/teachers-in-residence/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/areas/productive-cities/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/educational%20programs/x-futures/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/areas/sense-making/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/guides/code/gitsetup/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/programs/fabacademy/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/guides/code/html/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/programs/fabricademy/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/guides/code/terminal/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/programs/mdef/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/guides/embedded/arduino_boards/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/programs/teachers-in-residence/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/guides/embedded/feather32/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/programs/x-futures/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/guides/networking/mqtt/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/centrino/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/ddmp/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/00-projects-to-arrange/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/doit/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/00-projects-to-arrange/Fab_%40_Home/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/fab-city/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/00-projects-to-arrange/Rural_Fa%C3%A7ade/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/foodshift/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/00-projects-to-arrange/centrino/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/grow-observatory/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/00-projects-to-arrange/fab-city/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/iscape/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/00-projects-to-arrange/foodshift/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/make-it/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/00-projects-to-arrange/make-it/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/makers-mobility/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/00-projects-to-arrange/makers-mobility/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/making-sense/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/00-projects-to-arrange/reflow/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/organicity/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/00-projects-to-arrange/siscode/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/pop-machina/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/bio%20chains/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/reflow/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/bio%20chains/projects/romi/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/romi/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/distributed%20design/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/siscode/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/distributed%20design/projects/ddmp/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/projects/smart-citizen/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/emergent%20futures/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/documentation/mk-docs/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/future%20learning/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/6_Axis_Robotic_Arm/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/future%20learning/projects/PopUp_Lab/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/ABB_IRB_120_-_6_Axes_Robot/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/future%20learning/projects/doit/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/BE-1N/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/future%20learning/projects/future-learning/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Bosch_BKS4043_Wet_%26_Dry_Handheld_Vacuum_Cleaner/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/future%20learning/projects/pop-machina/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Bosch_GEX_150_AC_Orbit_Sander/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/materials%20and%20textiles/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Bosch_GST_150_BCE_Jigsaw/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/productive%20cities/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Bosch_GST_150_CE_Jigsaw/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/sense%20making/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/CNC_Control/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/sense%20making/projects/grow-observatory/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Ecoplus_TS-20_Drill_Press/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/sense%20making/projects/iscape/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Epilog_Laser/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/sense%20making/projects/making-sense/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Epilog_Laser_Cutter/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/sense%20making/projects/organicity/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Fab_%40_Home/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/sense%20making/projects/sense-making/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Fab_Academy/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/sense%20making/projects/smart-citizen/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Fab_Lab_House_Model/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Formbytes/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/documentation/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Formbytes_One_1/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/inventory/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Formlabs/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Formlabs_Form_2_3D_printer/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/machine-template/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/GX-24_Camm_Servo_1/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/I0/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/Formbytes/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Insights_for_milling/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/Formbytes_One_1/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Janome_Digital_Embroidery_Machine/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/Formlabs/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/KUKA_PRC/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/Formlabs_Form_2_3D_printer/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Kuka_KR_150_L110-2/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/RepRapBCN/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Laser_cutter_Trotec_Speedy_100/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/RepRapBCN_1/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Laser_cutter_Trotec_Speedy_400/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/RepRapBCN_2/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Legend_36_EXT_75_W_Laser_Cutter/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/RepRapBCN_3/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Making_a_Wax_Mould_on_the_Modela/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/Spectrum_Z510/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Makita_9404_Belt_Sander/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/Ultimaker_2_3D_printer/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Makita_DTD146_Cordless_impact_driver/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/ZCorp/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Makita_RT0700C_Router/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/3D%20printing/Zortrax_M200_3D_printer/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Materials/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Milling_Tools/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/GX-24_Camm_Servo_1/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Milling_machine_Monofab_SRM_20/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/Monofab_SRM_20_1/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Monofab_SRM_20_1/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/Monofab_SRM_20_2/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Monofab_SRM_20_2/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/Precix/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Multicam_2000_Laser_Cutter/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/Precix_Milling/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Multicam_Laser_Cutter/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/Roland_Modela/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/PopUp_Lab/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/ShopBot/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Precix/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/Shop_Bot/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Precix_Milling/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/Shopbot_ATC/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/RepRapBCN/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/Shopbot_ATC_PRS_Alpha_3_Axes_Milling_machine/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/RepRapBCN_1/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/CNC/Trex_1215_S/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/RepRapBCN_2/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Educational%20Machines/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/RepRapBCN_3/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Educational%20Machines/SPML/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Roland_Modela/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Embroidery/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Rural_Fa%C3%A7ade/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Embroidery/Janome_Digital_Embroidery_Machine/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/ShopBot/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Hand%20Tools/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Shop_Bot/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Hand%20Tools/Bosch_BKS4043_Wet_%26_Dry_Handheld_Vacuum_Cleaner/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Shopbot_ATC/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Hand%20Tools/Bosch_GEX_150_AC_Orbit_Sander/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Shopbot_ATC_PRS_Alpha_3_Axes_Milling_machine/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Hand%20Tools/Bosch_GST_150_BCE_Jigsaw/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Sketchup/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Hand%20Tools/Bosch_GST_150_CE_Jigsaw/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Spectrum_Z510/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Hand%20Tools/Ecoplus_TS-20_Drill_Press/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Spirit_GE_Laser_Cutter/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Hand%20Tools/Makita_9404_Belt_Sander/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Stepper_motor/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Hand%20Tools/Makita_DTD146_Cordless_impact_driver/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Super_Amazing_Machine/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Hand%20Tools/Makita_RT0700C_Router/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Trex_1215_S/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Trotec_Speedy_100R/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Epilog_Laser/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Trotec_Speedy_400/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Epilog_Laser_Cutter/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Troteclaser/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Laser_cutter_Trotec_Speedy_100/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Ultimaker_2_3D_printer/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Laser_cutter_Trotec_Speedy_400/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Vinyl_cutter_GX-24_Camm_Servo/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Legend_36_EXT_75_W_Laser_Cutter/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/ZCorp/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Multicam_2000_Laser_Cutter/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/tools/fabrication/Zortrax_M200_3D_printer/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Multicam_Laser_Cutter/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Spirit_GE_Laser_Cutter/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Trotec_Speedy_100R/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Trotec_Speedy_400/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Laser%20Cutting/Troteclaser/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Precious%20Plastics/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Robotics/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Robotics/6_Axis_Robotic_Arm/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Robotics/ABB_IRB_120_-_6_Axes_Robot/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Robotics/KUKA_PRC/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Robotics/Kuka_KR_150_L110-2/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Vacuum%20forming/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Vacuum%20forming/BE-1N/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Vynil%20Cutting/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/machines/Vynil%20Cutting/Vinyl_cutter_GX-24_Camm_Servo/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/materials/</loc>
+     <lastmod>2020-11-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/suppliers/</loc>
+     <lastmod>2020-11-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
