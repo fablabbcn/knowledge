@@ -28,6 +28,10 @@
      <lastmod>2020-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://knowledge.fablabbcn.org/research%20areas/</loc>
+     <lastmod>2020-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://knowledge.fablabbcn.org/resources/</loc>
      <lastmod>2020-11-20</lastmod>
      <changefreq>daily</changefreq>
@@ -100,6 +104,14 @@
      <lastmod>2020-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/networking/</loc>
+     <lastmod>2020-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/resources/networking/mqtt/</loc>
+     <lastmod>2020-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://knowledge.fablabbcn.org/guides/</loc>
      <lastmod>2020-11-20</lastmod>
      <changefreq>daily</changefreq>
@@ -120,15 +132,19 @@
      <lastmod>2020-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/guides/embedded/feather32/</loc>
+     <loc>https://knowledge.fablabbcn.org/guides/embedded/esp32/</loc>
      <lastmod>2020-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://knowledge.fablabbcn.org/guides/networking/mqtt/</loc>
+     <loc>https://knowledge.fablabbcn.org/guides/embedded/esp8266/</loc>
      <lastmod>2020-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://knowledge.fablabbcn.org/guides/raspberry-pi/basics/</loc>
+     <lastmod>2020-11-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://knowledge.fablabbcn.org/guides/raspberry-pi/networking/</loc>
      <lastmod>2020-11-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
