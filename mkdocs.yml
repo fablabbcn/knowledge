@@ -18,7 +18,7 @@ nav:
     - Teachers in residence: educational programs/teachers_in_residence.md
     - X-Futures: educational programs/x-futures.md
   - Research: 
-    - Research: research/index.md
+    - Research: research areas/index.md
   - Resources: 
     - Resources: resources/index.md
     - Documentation: 
@@ -53,6 +53,9 @@ nav:
       - Alucobond (dibond): resources/materials/alucobond/index.md
     - Suppliers:
       - Suppliers: resources/suppliers/index.md
+    - Networking:
+      - Networking: resources/networking/index.md
+      - MQTT: resources/networking/mqtt.md
   - Guides: 
     - Guides: guides/index.md
     - Code:
@@ -61,11 +64,11 @@ nav:
       - terminal: guides/code/terminal.md
     - Embedded:
       - Installing arduino boards: guides/embedded/arduino_boards.md
-      - Feather 32: guides/embedded/feather32.md
-    - Networking:
-      - MQTT: guides/networking/mqtt.md
+      - ESP32: guides/embedded/esp32.md
+      - ESP8266: guides/embedded/esp8266.md
     - Raspberry Pi:
       - Basics: guides/raspberry-pi/basics.md
+      - Networking: guides/raspberry-pi/networking.md
 
 theme:
   name: 'material'

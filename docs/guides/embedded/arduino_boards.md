@@ -14,7 +14,7 @@ There, add the boards sources. **One line per URL**:
 
 !!! Note "Recommended setup"
 
-    **For fabacademy**, we recommend adding the following:
+    **For fabacademy/MDEF**, we recommend adding the following:
 
     ```
     https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json

@@ -1,3 +1,6 @@
+
+!!! warning "WIP"
+
 This is the file that is including the snippet.
 We want blank lines before and after the insertion:
 
@@ -6,3 +9,11 @@ We want blank lines before and after the insertion:
 ```
 
 So we put blank lines around the insertion.
+
+## MQTT
+
+### Code example
+
+```
+--8<-- "guides/embedded/assets/snippets/esp32_mqtt.ino"
+```
