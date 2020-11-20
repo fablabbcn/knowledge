@@ -7,9 +7,9 @@ You might have visited this content in the past using [our wiki](https://wiki.fa
 To help get you started, we have prepared these sections:
 
 - [Education](educational programs): here we have compiled all the resources about our educational programs, such as the [Masters in Design for Emergent Futures](educational programs/MDEF) (MDEF), [Fabacademy](educational programs/fabacademy), [Fabriacademy](educational programs/fabriacademy) and more!
-- [Guides](guides): some ready to use trainings, documented for anyone to use and benefit from.
-- [Research areas](research areas): all our research activity compiled in a single spot, with links to specific project documentations and resources.
+- [Research](research areas): all our research activity compiled in a single spot, with links to specific project documentations and resources.
 - [Resources](resources): from 3D printing to citizen participation. Here we compile information about toolkits, workflows, machines, materials, processes and suppliers.
+- [Guides](guides): some ready to use trainings, documented for anyone to use and benefit from.
 - [WIP](WIP): _work in progress content_ - not categorised yet, but still useful
 
 !!! tip "Open to contributions"
