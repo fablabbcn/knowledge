@@ -1,4 +1,4 @@
-Fabricacademy
+Fabricademy
 ================
 
 ## Projects
