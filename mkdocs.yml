@@ -23,6 +23,9 @@ nav:
     - Resources: resources/index.md
     - Documentation: 
       - Documentation: resources/documentation/index.md
+    - Publications: resources/publications/index.md
+      - Journals and Papers: resources/publications/Journals and Papers.md
+      - Books: resources/publications/Books.md
     - Inventory:
       - Inventory: resources/inventory/index.md
     - Machines:
