@@ -10,8 +10,8 @@ repo_url: https://github.com/fablabbcn/knowledge
 nav:
   - Welcome!: 
     - Welcome!: index.md
-  - Education: 
-    - Education: educational programs/index.md
+  - Programs: 
+    - Educational programs: educational programs/index.md
     - Fabacademy: educational programs/fabacademy.md
     - Fabricademy: educational programs/fabricademy.md
     - MDEF: educational programs/MDEF.md
@@ -19,7 +19,7 @@ nav:
     - X-Futures: educational programs/x-futures.md
   - Research: 
     - Research: research areas/index.md
-  - Resources: 
+  - Resources:
     - Resources: resources/index.md
     - Documentation: 
       - Documentation: resources/documentation/index.md
@@ -28,6 +28,11 @@ nav:
       - Books: resources/publications/Books.md
     - Inventory:
       - Inventory: resources/inventory/index.md
+    - Materials:
+      - Materials: resources/materials/index.md
+      - Alucobond (dibond): resources/materials/alucobond/index.md
+      - Bioplastics: resources/materials/alucobond/index.md
+      - Suppliers: resources/suppliers/index.md
     - Machines:
       - Machines: resources/machines/index.md
       - Machine template: resources/machines/machine-template.md
@@ -51,18 +56,18 @@ nav:
         - Vacuum forming: resources/machines/Vacuum forming/index.md
       - Vynil Cutting:
         - Vynil Cutting: resources/machines/Vynil Cutting/index.md
-    - Materials:
-      - Materials: resources/materials/index.md
-      - Alucobond (dibond): resources/materials/alucobond/index.md
-    - Suppliers:
-      - Suppliers: resources/suppliers/index.md
     - Networking:
       - Networking: resources/networking/index.md
-      - MQTT: resources/networking/mqtt.md
+      - MQTT: resources/networking/mqtt.md     
+  - Tools for ...:
+    - Information management: 
+      - Documentation: resources/documentation/index.md
+      - Inventory: resources/inventory/index.md
+      - Version control - git: resources/documentation/index.md
   - Guides: 
     - Guides: guides/index.md
     - Code:
-      - Git setup: guides/code/gitsetup.md
+      - Setting up git: guides/code/gitsetup.md
       - HTML: guides/code/html.md
       - terminal: guides/code/terminal.md
     - Embedded:
@@ -84,8 +89,8 @@ theme:
   palette:
     primary: 'black'
     accent: 'green'
-  logo: 'assets/images/logo.svg'
-  favicon: 'assets/images/favicon.ico'
+  logo: 'assets/logo.svg'
+  favicon: 'assets/favicon.svg'
   feature:
     tabs: true
   icon:

@@ -1,2 +1,2 @@
-# Education
+# Educational programs
 
