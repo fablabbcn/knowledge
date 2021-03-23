@@ -5,6 +5,9 @@
 Pistofidou, A., Real, M., & Juarez Calvo, M. (2020). Remix El Barrio: A Co-Creation Journey to Foster Innovative Ecosystems Crafting and Micro-Fabricating with Food Surplus and Waste. Creative Food Cycles-Book 1, 185-195.
 https://www.repo.uni-hannover.de/handle/123456789/10176
 
+Sollazzo A., Colliaux D., Garivani S., Minchin J., Garlanda L. and Hanappe, P. Automated vegetable growth analysis from outdoor images acquired with a cablebot. Workshop on Computer Vision Problems for Plant Phenotyping, 2020.
+https://www.plant-phenotyping.org/lw_resource/datapool/systemfiles/elements/files/cb52dc44-eb90-11ea-908c-dead53a91d31/current/document/W0008.pdf
+
 Armstrong, K., Whaman, E., Schafer, L., Bugge Henriksen, C., & Wascher, D. (2020). Foodshift 2030: A Citizen-Driven Transition of the European Food System (EU Horizon Project). Creative Food Cycles-Book 1, 313-321.
 https://www.repo.uni-hannover.de/handle/123456789/10187
 
