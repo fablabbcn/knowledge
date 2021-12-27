@@ -1,6 +1,7 @@
 ---
 title: MDEF
-tags: educational program
+tags: 
+    - education
 ---
 
 ## Projects

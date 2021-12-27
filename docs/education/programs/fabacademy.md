@@ -1,6 +1,7 @@
 ---
 title: fabacademy
-tags: educational program
+tags: 
+    - education
 ---
 
 ## Projects

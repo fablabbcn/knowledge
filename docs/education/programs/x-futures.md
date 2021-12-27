@@ -1,6 +1,7 @@
 ---
 title: X-Futures
-tags: educational program
+tags: 
+    - education
 ---
 
 ## Projects

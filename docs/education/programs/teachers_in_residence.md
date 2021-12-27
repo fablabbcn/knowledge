@@ -1,6 +1,7 @@
 ---
 title: Teachers in residence
-tags: educational program
+tags: 
+    - education
 ---
 
 ## Projects

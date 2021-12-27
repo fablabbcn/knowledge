@@ -1,6 +1,7 @@
 ---
 title: fabricademy
-tags: educational program
+tags: 
+    - education
 ---
 
 ## Projects

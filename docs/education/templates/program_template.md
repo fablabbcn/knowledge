@@ -1,6 +1,8 @@
 ---
 title: Program template
-tags: template, educational program
+tags: 
+    - education
+    - template
 ---
 
 ## Projects

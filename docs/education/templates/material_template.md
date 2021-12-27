@@ -1,6 +1,8 @@
 ---
 title: Material template
-tags: template, educational material
+tags: 
+    - education
+    - template
 ---
 
 ## Title
