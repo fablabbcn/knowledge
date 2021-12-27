@@ -84,6 +84,7 @@ theme:
     - instant
     - navigation.expand
     - navigation.tabs
+    - toc.autohide
     - tabs
   custom_dir: 'custom_theme'
   palette:
@@ -112,6 +113,8 @@ extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
+  - extra
+  - smarty
   - admonition
   - codehilite
   - footnotes
@@ -137,6 +140,7 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - attr_list
+  - pymdownx.tabbed
 
 plugins:
   - tags:
