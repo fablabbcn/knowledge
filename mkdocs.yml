@@ -143,7 +143,8 @@ markdown_extensions:
   - pymdownx.tabbed
 
 plugins:
-  - tags:
+  - search
+  - tags
       # tags_template: docs/theme/tags.md.template    
 
 extra_javascript:
