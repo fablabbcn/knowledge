@@ -107,6 +107,9 @@ extra:
   project: 'Fab Lab Barcelona is an innovation centre rethinking the way we live, work and play in cities. This is our open knowledge repository'
   license: 'CC Attribution-NonCommercial-ShareAlike 4.0 International'
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - admonition
   - codehilite
@@ -134,8 +137,8 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
 
-# plugins:
-#   - tags
+plugins:
+  - tags:
       # tags_template: docs/theme/tags.md.template    
 
 extra_javascript:
