@@ -2,137 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://knowledge.fablabbcn.org/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/education/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/fabrication/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/education/programs/MDEF/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/fabrication/machines/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/education/programs/fabacademy/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/fabrication/machines/prusamk3/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/education/programs/fabricademy/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/fabrication/materials/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/education/programs/teachers_in_residence/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/fabrication/materials/dibond/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/education/programs/x-futures/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/fabrication/suppliers/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/education/templates/material_template/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/fabrication/templates/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/education/templates/program_template/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/fabrication/templates/machine-template/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/know-how/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/fabrication/templates/material_template/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/know-how/documentation/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/guides/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/know-how/inventory/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/guides/documentation/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/know-how/machines/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/programs/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/know-how/machines/machine-template/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/programs/MDEF/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/know-how/materials/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/programs/fabacademy/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/know-how/materials/alucobond/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/programs/fabricademy/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://knowledge.fablabbcn.org/know-how/suppliers/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <loc>https://knowledge.fablabbcn.org/programs/templates/program_template/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://knowledge.fablabbcn.org/research/</loc>
-         <lastmod>2021-11-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://knowledge.fablabbcn.org/research/CENTRINNO/</loc>
-         <lastmod>2021-11-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://knowledge.fablabbcn.org/research/FoodSHIFT/</loc>
-         <lastmod>2021-11-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://knowledge.fablabbcn.org/research/Make%20Works/</loc>
-         <lastmod>2021-11-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://knowledge.fablabbcn.org/research/Pop-Machina/</loc>
-         <lastmod>2021-11-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://knowledge.fablabbcn.org/research/Precious%20plastics/</loc>
-         <lastmod>2021-11-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://knowledge.fablabbcn.org/research/Reflow/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://knowledge.fablabbcn.org/research/publications/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://knowledge.fablabbcn.org/research/publications/Books/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://knowledge.fablabbcn.org/research/publications/Journals%20and%20Papers/</loc>
-         <lastmod>2021-11-08</lastmod>
+         <lastmod>2022-01-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://knowledge.fablabbcn.org/tags.html</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
