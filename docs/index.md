@@ -1,20 +1,43 @@
-# Welcome!
+Welcome to the knowledge hub of <a href="https://fablabbcn.org">Fab Lab Barcelona</a>! You might have visited this content in the past using <a href="https://wiki.fablabbcn.org">our wiki</a>, and have worked on the old wiki page and moved it here. This documentation, as well as everything we do is open source and <a href="https://en.wikipedia.org/wiki/Free_as_in_Freedom">free as in freedom</a>. The source code of this documentation can be found in <a href="https://github.com/fablabbcn/knowledge">this github repository</a>. If you find a problem, please, <a href="https://github.com/fablabbcn/knowledge/issues/new">open an issue</a> or make a pull request! If you are contributing a project, a machine, a process, or whatever please, **use the templates** on each section.
 
-Welcome to the knowledge hub of Fablab Barcelona!
+{% set items = {'Fabrication': 'Fabrication description here...',
+                'Guides': 'Guides description here...', 
+                'Research': 'Research description here...',
+                'Programs': 'Programs description here...'
+            } 
+%}
 
-You might have visited this content in the past using [our wiki](https://wiki.fablabbcn.org). We have worked in a great refurbishment of this page and moved it here.
+<div class="card-deck">
+    {% for item in items %}
+            <a href="/{{ item }}/" class="card">
+                <div class="card-image" data-src="/assets/{{ item.lower() }}.jpg" style="background-image: url('/assets/{{ item.lower() }}.jpg');" lazy="loaded"></div>
+                <div class="card-body">
+                    <h2 class="card-title">{{ item }}</h2>
+                    <div class="card-text">{{ items[item] }}</div>
+                </div>
+            </a>
+    {% endfor %}
+</div>
 
-To help get you started, we have prepared these sections:
+<style type="text/css">
 
-- [Education](education): here we have compiled all the resources about our educational programs, such as the [Masters in Design for Emergent Futures](education/MDEF) (MDEF), [Fabacademy](education/fabacademy), [Fabricademy](education/Fabricademy) and more!
-- [Research](research areas): all our research activity compiled in a single spot, with links to specific project documentations and resources.
-- [Know-how](know-how): from 3D printing to citizen participation. Here we compile information about toolkits, workflows, machines, materials, processes and suppliers.
+    .md-header-nav__title{
+        font-size: 18px;
+        font-weight: 600;
+    }
 
-!!! tip "Open to contributions"
-    This documentation, as well as everything we do is open source and free (as in freedom) to be used by anyone. The source code of this documentation can be found in [this github repository](https://github.com/fablabbcn/knowledge). 
+    h1{
+        display: none;
+    }
 
-    If you find a problem, please, [open an issue](https://github.com/fablabbcn/knowledge/issues/new) or make a pull request!
+    .md-content__button.md-icon,
+    .md-sidebar,
+    .md-tabs,
+    .md-footer-nav {
+        display: none;
+    }
 
-    If you are contributing a machine, please, use the [machine template](know-how/machines/machine_template).
-
-<a class="github-button" data-size="large" href="https://github.com/fablabbcn/knowledge" aria-label="Check the source code">Check the source</a>
+    .md-content{
+        max-width: none;
+    }
+</style>

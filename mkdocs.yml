@@ -1,82 +1,9 @@
-site_name: Knowledge Hub
+site_name: Fab Lab BCN Knowledge Hub
 site_description: Fab Lab Barcelona Knowledge Hub
 site_author: Fab Lab Team
 site_url: https://knowledge.fablabbcn.org
 repo_name: knowledge
 repo_url: https://github.com/fablabbcn/knowledge
-
-# https://www.mkdocs.org/user-guide/writing-your-docs/#configure-pages-and-navigation
-
-# nav:
-#   - Welcome!: 
-#     - Welcome!: index.md
-#   - Programs: 
-#     - Educational programs: educational programs/index.md
-#     - Fabacademy: educational programs/fabacademy.md
-#     - Fabricademy: educational programs/fabricademy.md
-#     - MDEF: educational programs/MDEF.md
-#     - Teachers in residence: educational programs/teachers_in_residence.md
-#     - X-Futures: educational programs/x-futures.md
-#   - Research: 
-#     - Research: research areas/index.md
-#   - Resources:
-#     - Resources: resources/index.md
-#     - Documentation: 
-#       - Documentation: resources/documentation/index.md
-#     - Publications: resources/publications/index.md
-#       - Journals and Papers: resources/publications/Journals and Papers.md
-#       - Books: resources/publications/Books.md
-#     - Inventory:
-#       - Inventory: resources/inventory/index.md
-#     - Materials:
-#       - Materials: resources/materials/index.md
-#       - Alucobond (dibond): resources/materials/alucobond/index.md
-#       - Bioplastics: resources/materials/alucobond/index.md
-#       - Suppliers: resources/suppliers/index.md
-#     - Machines:
-#       - Machines: resources/machines/index.md
-#       - Machine template: resources/machines/machine-template.md
-#       - 3D printing:
-#         - 3D printing: resources/machines/3D printing/index.md
-#       - CNC:
-#         - CNC: resources/machines/CNC/index.md
-#       - Educational Machines:
-#         - Educational Machines: resources/machines/Educational Machines/index.md
-#       - Embroidery:
-#         - Embroidery: resources/machines/Embroidery/index.md
-#       - Hand Tools:
-#         - Hand Tools: resources/machines/Hand Tools/index.md
-#       - Laser Cutting:
-#         - Laser Cutting: resources/machines/Laser Cutting/index.md
-#       - Precious Plastics:
-#         - Precious Plastics: resources/machines/Precious Plastics/index.md
-#       - Robotics:
-#         - Robotics: resources/machines/Robotics/index.md
-#       - Vacuum forming:
-#         - Vacuum forming: resources/machines/Vacuum forming/index.md
-#       - Vynil Cutting:
-#         - Vynil Cutting: resources/machines/Vynil Cutting/index.md
-#     - Networking:
-#       - Networking: resources/networking/index.md
-#       - MQTT: resources/networking/mqtt.md     
-#   - Tools for ...:
-#     - Information management: 
-#       - Documentation: resources/documentation/index.md
-#       - Inventory: resources/inventory/index.md
-#       - Version control - git: resources/documentation/index.md
-#   - Guides: 
-#     - Guides: guides/index.md
-#     - Code:
-#       - Setting up git: guides/code/gitsetup.md
-#       - HTML: guides/code/html.md
-#       - terminal: guides/code/terminal.md
-#     - Embedded:
-#       - Installing arduino boards: guides/embedded/arduino_boards.md
-#       - ESP32: guides/embedded/esp32.md
-#       - ESP8266: guides/embedded/esp8266.md
-#     - Raspberry Pi:
-#       - Basics: guides/raspberry-pi/basics.md
-#       - Networking: guides/raspberry-pi/networking.md
 
 theme:
   name: 'material'
@@ -105,7 +32,7 @@ extra:
       link: 'https://www.instagram.com/fablabbcn/'
     - icon: fontawesome/brands/github
       link: 'https://www.instagram.com/fablabbcn/'
-  project: 'Fab Lab Barcelona is an innovation centre rethinking the way we live, work and play in cities. This is our open knowledge repository'
+  project: 'Fab Lab Barcelona is an innovation centre rethinking the way we live, work and play in cities. This is our open knowledge repository.'
   license: 'GNU Free Documentation License (Version 1.3, 3 November 2008)'
   license_link: 'https://www.gnu.org/licenses/fdl-1.3-standalone.html'
 
@@ -129,7 +56,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
-  - pymdownx.highlight  
+  - pymdownx.highlight
   - pymdownx.snippets:
       base_path: 'docs'
   - pymdownx.magiclink
@@ -145,8 +72,9 @@ markdown_extensions:
 plugins:
   - search
   - tags
-      # tags_template: docs/theme/tags.md.template    
+  - macros
 
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
   - 'https://buttons.github.io/buttons.js'
+

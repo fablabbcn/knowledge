@@ -1,0 +1,25 @@
+{% if full %}
+  <div class="card-deck-full">
+{% else %}
+  <div class="card-deck-half">
+{% endif %}
+    {% for tag in tags %}
+            <a href="/{{ tags[tag][0] }}/" class="card card-list">
+<!--                 <div class="card-body" data-src="/assets/{{ tag.lower() }}.jpg" style="background-image: url('/assets/{{ tag.lower() }}.jpg');" lazy="loaded"> -->
+                  <div class="card-body">
+                    <h2 class="card-title tag">{{ tag.upper() }} </h2>
+                    {% if tags[tag][1] %}
+                      <div class="card-text">{{ tags[tag][1] }}</div>
+                    {% endif %} 
+                    {% if tags[tag][2] %}
+                      <div class="card-date">{{ tags[tag][2] }}</div>
+                    {% endif %}
+                    {% if tags[tag][3] %}
+                      <div class="card-author">
+                        contributors: <span style="color:#52c8cf">{{ tags[tag][3] }} </span>
+                      </div>
+                    {% endif %} 
+                </div>
+            </a>
+    {% endfor %}
+  </div>
