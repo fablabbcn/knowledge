@@ -35,6 +35,13 @@ Application is determined by the thickeness of material vs the strength of the m
 
 ![](knowledge/docs/assets/shredder-controls-01.jpg)
 
+a. main power key switch
+b. power and opperation indicator light (yellow when powered, green when opperating) 
+c. direction switch
+d. warning/error indicator light
+e. reset button
+f. emergancy power off mushroom button
+
 1. Check condition of machine and that there is no left material from previous use
 2. Fit the mesh protector with the 4 bolts below the shredder
 3. Place the collector under the shredder
