@@ -5,7 +5,7 @@ tags:
     - material processing
 ---
 
-![](assets/shredder-01.jpg)
+![](../../assets/shredder-01.jpg)
 
 ## Technical specifications
 
@@ -33,7 +33,7 @@ Application is determined by the thickeness of material vs the strength of the m
 
 ## Opperation [*new section*]
 
-![](assets/shredder-controls-01.jpg)
+![](../../assets/shredder-controls-01.jpg)
 
 a. main power key switch
 b. power and opperation indicator light (yellow when powered, green when opperating) 
