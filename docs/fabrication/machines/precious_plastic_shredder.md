@@ -5,7 +5,7 @@ tags:
     - material processing
 ---
 
-![](assets/shredder-01.jpg)
+![](knowledge/docs/assets/shredder-01.jpg)
 
 ## Technical specifications
 
@@ -33,7 +33,7 @@ Application is determined by the thickeness of material vs the strength of the m
 
 ## Opperation [*new section*]
 
-![](assets/shredder-controls-01.jpg)
+![](knowledge/docs/assets/shredder-controls-01.jpg)
 
 1. Check condition of machine and that there is no left material from previous use
 2. Fit the mesh protector with the 4 bolts below the shredder
