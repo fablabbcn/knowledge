@@ -5,7 +5,7 @@ tags:
     - material processing
 ---
 
-![](assets/images/machine-image.jpg)
+![](assets/images/shredder-01.jpg)
 
 ## Technical specifications
 
@@ -32,6 +32,8 @@ Application is determined by the thickeness of material vs the strength of the m
 **Danger from circumventing safety protocols** - There are protocols in place to help prevent the above dangers. Do not attempt to circumvent these in the opperation of the machine.
 
 ## Opperation [*new section*]
+
+![](assets/images/shredder-controls-01.jpg)
 
 1. Check condition of machine and that there is no left material from previous use
 2. Fit the mesh protector with the 4 bolts below the shredder
