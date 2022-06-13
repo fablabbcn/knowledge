@@ -5,7 +5,7 @@ tags:
     - fabrication
 ---
 
-![](assets/images/machine-image.jpg)
+![](knowledge/docs/assets/sheet-press-01.jpg)
 
 ## Technical specifications
 
@@ -24,6 +24,20 @@ tags:
 - Hot - wear gloves
 
 ## Opperation [*new section*]
+
+![](knowledge/docs/assets/sheet-press-controls-01.jpg)
+
+a. timer (the press will not heat up if a time is not set)
+b. upper plate power indicator
+c. upper plate temperature indicator and control
+d. lower plate power indicator
+e. lower plate temperature indicator and control
+
+![](knowledge/docs/assets/sheet-press-controls-02.jpg)
+
+f. main power key switch
+g. emergancy power off mushroom button
+h. opperating warning light
 
 1. Plug in the Sheetpress, check that the emergency stop is released and switch on the main power switch.
 2. Check the required temperature to melt your type of plastic and set the PID controller to this temperature.
