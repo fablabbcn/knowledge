@@ -31,7 +31,7 @@ Application is determined by the thickeness of material vs the strength of the m
 
 **Danger from circumventing safety protocols** - There are protocols in place to help prevent the above dangers. Do not attempt to circumvent these in the opperation of the machine.
 
-## Opperation [*new section*]
+## Opperation
 
 ![](../../assets/shredder-controls-01.jpg)
 
@@ -44,12 +44,12 @@ f. emergancy power off mushroom button
 
 1. Check condition of machine and that there is no left material from previous use
 2. Fit the mesh protector with the 4 bolts below the shredder
-3. Place the collector under the shredder
+3. Place the collector box under the shredder
 4. Gather the sorted material you want to shred
-5. Plug in and turn on the machine with the key switch
+5. Plug in and turn on the machine with the key switch **(a.)**
 6. Place small amounts of material in the hoper.
 7. Close the lid
-8. Turn the motor on in the forward direction
+8. Turn the motor on in the forward direction by turning the direction switch **(c.)** clockwise
 9. Continue to shred until all material is processed
 10. Turn off the machine with the direction switch and key switch
 11. Store the shredded material
@@ -57,7 +57,7 @@ f. emergancy power off mushroom button
 
 ## Maintenance
 
- Under normal opperation the main mainenace required is cleaning out any material after use. This should be done by the user as part of the use of the machine. 
+Under normal opperation the main mainenace required is cleaning out any material after use. This should be done by the user as part of the use of the machine. 
 
 ## Useful information
 
@@ -72,10 +72,8 @@ f. emergancy power off mushroom button
   - [User Manual](link to manual)
   - [Info page](https://community.preciousplastic.com/academy/build/shredder)
 
-### Guides
-
 ## Troubleshooting
 
-- Sometimes the blades don’t grab the plastic. Try pushing the plastic towards the blades with the tool provided. Never attempt to do that with your hands.
-- Red light is illuminated means the motor is overloaded. Remove material or run the machine backwards. 
-- If material resistance exceeds the maximum torque of the motor, the machine will stop. Basically, there is too much material to be cut and the motor can’t make it. Switch off the machine and remove some of the clogged material.
+- Blades don’t grab the plastic - Run the machine backward to jostle the material, anti-clockwise on the direction switch **(c.)** // Reposition the material in the shredder by hand when the machine is off.  
+- THe Blades stop turnning mid opperation - Is the red light **(d.)** illuminated? This indicates the motor is overloaded. Switch off machine and remove material or run the machine backwards.
+- Machine will not turn on // blades do not turn - Check that the emergancy stop mushroom button **(f.)** is not apllied. // Check that the lid is correctly closed so that the magnetic safety cut-off is connected. 
