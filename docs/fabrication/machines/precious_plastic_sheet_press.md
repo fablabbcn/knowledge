@@ -82,8 +82,6 @@ Borrowed from Precious Plastic: https://onearmy.github.io/academy/build/sheetpre
   - [User Manual](https://community.preciousplastic.com/academy/build/sheetpressrun)
   - [Info page](https://community.preciousplastic.com/academy/build/sheetpress)
 
-### Guides
-
 ## Troubleshooting
 
 - Plates are not heating. - Timer **(a.)** not set // Power indicators **(b.+d.))** not illuminated // Emergancy power off mushroom button **(g.)** engaged
