@@ -1,8 +1,11 @@
 ---
 title: Precious Plastic Shredder
 tags: 
-    - experimental
-    - material processing
+  - experimental
+  - material processing
+description: "The precious plastics shredder!"
+author: "Christy Cairns"
+date: "20/06/2022"
 ---
 
 ![](../../assets/shredder-01.jpg)

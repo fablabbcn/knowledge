@@ -1,8 +1,11 @@
 ---
 title: Precious Plasic Sheet Press
 tags: 
-    - Experimentation
-    - fabrication
+  - experimental
+  - fabrication
+description: "The precious plastics sheet press!"
+author: "Christy Cairns"
+date: "20/06/2022"
 ---
 
 ![](../../assets/sheet-press-01.jpg)
@@ -56,7 +59,7 @@ tags:
 13. When the mould has been in the Sheetpress for the required melting time, switch off the Sheetpress and allow to cool in situ.
 14. Alternatively you can take out the mould and either weight it down or clamp it to allow the sheet to cool externally.
 
-## Maintenance 
+## Maintenance
 Borrowed from Precious Plastic: https://onearmy.github.io/academy/build/sheetpressrun#-maintain 
 
 **Weekly**
