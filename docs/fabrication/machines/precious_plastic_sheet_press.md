@@ -1,12 +1,15 @@
 ---
 title: Precious Plasic Sheet Press
-tags: 
+tags:
+  - machines
   - experimental
   - fabrication
 description: "The precious plastics sheet press!"
 author: "Christy Cairns"
 date: "20/06/2022"
 ---
+
+# Precious Plasic Sheet Press
 
 ![](../../assets/sheet-press-01.jpg)
 

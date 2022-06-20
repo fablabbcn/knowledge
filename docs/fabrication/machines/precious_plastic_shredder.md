@@ -1,12 +1,16 @@
 ---
 title: Precious Plastic Shredder
-tags: 
+tags:
+  - machines
   - experimental
   - material processing
+  - fabrication
 description: "The precious plastics shredder!"
 author: "Christy Cairns"
 date: "20/06/2022"
 ---
+
+# Precious Plastic Shredder
 
 ![](../../assets/shredder-01.jpg)
 
