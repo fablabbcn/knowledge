@@ -1,5 +1,5 @@
 ---
-title: Precious Plasic Sheet Press
+title: Precious Plastic Sheet Press
 tags:
   - machines
   - experimental
@@ -29,7 +29,7 @@ date: "20/06/2022"
 
 - **Hot** - wear heat protective gloves
 
-## Opperation
+## Operation
 
 ![](../../assets/sheet-press-controls-01.jpg)
 
