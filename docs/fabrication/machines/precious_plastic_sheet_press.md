@@ -9,7 +9,7 @@ author: "Christy Cairns"
 date: "20/06/2022"
 ---
 
-# Precious Plasic Sheet Press
+# Precious Plastic Sheet Press
 
 ![](../../assets/sheet-press-01.jpg)
 
