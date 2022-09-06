@@ -1,7 +1,7 @@
 # Books
 
 K. Armstrong, T. Diez, P. Sanchez Toribio, M. Rodriguez, M. Reyes (ed.) (2021). This is
-Distributed Design: Making a new local & global design paradigm. Barcelona, Spain: Fab Lab Barcelona, Institute for Advanced Architecture of Catalonia (IAAC). (ISBN: 978-84-617-2454-3) [Download PDF]([https://distributeddesign.eu/wp-content/uploads/2020/11/DistributedDesignBook_2020-online.pdf](https://distributeddesign.eu/wp-content/uploads/2022/06/This-Is-Distributed-Design-Book-2021.pdf))
+Distributed Design: Making a new local & global design paradigm. Barcelona, Spain: Fab Lab Barcelona, Institute for Advanced Architecture of Catalonia (IAAC). (ISBN: 978-84-617-2454-3) [Download PDF](https://distributeddesign.eu/wp-content/uploads/2022/06/This-Is-Distributed-Design-Book-2021.pdf)
 
 K. Armstrong, P. Sanchez Toribio, E. Whyman, T. Diez. (ed.) (2020). Viral Design: The COVID-19 Crisis as a Global Test Bed for Distributed Design. Barcelona, Spain: Fab Lab Barcelona,Institute for Advanced Architecture of Catalonia (IAAC). (ISBN: 978-84-120886-0-1) [Download PDF](https://distributeddesign.eu/wp-content/uploads/2020/11/DistributedDesignBook_2020-online.pdf)
 
