@@ -4,30 +4,43 @@ tags:
   - machines
   - experimental
   - fabrication
-description: "The precious plastics sheet press!"
+description: "The Precious Plastic sheet press!"
 author: "Christy Cairns"
 date: "20/06/2022"
 ---
 
-# Precious Plastic Sheet Press
+# Precious Plastic Sheet Press (under construction)
 
 ![](../../assets/sheet-press-01.jpg)
 
 ## Technical specifications
 
-- **Brand: Precious Plastic / Fab Lab Barcelona** 
-- **Work area: Fab Lab** 
-- **Materials: Plastics**
-- **Technology: Heating, Pressing, Moulding**
+- **Brand:** Fab Lab Barcelona (concept by Precious Plastic)
+- **Work area:** Laser cutting room 
+- **Materials:** Thermoplastics (PLA, HDPE, LDPE, PET, PP, PS...), biomaterials, other
+- **Technology:** Heating, pressing, moulding
+- **Machine parts:**  ///MACHINE PARTS DIAGRAM///
 
 ## Applications
 
-  - List of applications
-  - melting and squashing plastic
+  - Creating sheets (from 3mm to 15mm thick) with thermoplastics. The size of the sheet depends on the frame used.
+  - Using the pressure to compress a material.
+  - Using the heated platforms to melt a material.
+  - ///IMAGES OF APPLICATIONS///
 
 ## Health & Safety
 
-- **Hot** - wear heat protective gloves
+**CAUTION: This machine is highly exposed to the user. The platforms can reach very hot temperatures (over 300°C), so it is important to be well protected and to follow the operating instructions.**
+
+- **Safety information:**
+  - Be always aware of the temperature of both platforms.
+  - Use welding gloves to manipulate anything between the two platforms of the press when the heat is ON.
+  - Some thermoplastics expel toxic fumes when melted. Use safety goggles and mask if needed.
+  - Be careful with long hair and other stuff that can get caught by the press.
+  - Don't use more pressure than what is needed. This could damage the machine.
+  - Don't use earphones. Being able to hear and smell is fundamental when using Precious Plastic machines.
+  - Safety button just turns off the machine, but platforms take long to cool down.
+  - IF YOU HAVE ANY DOUBT OR YOU ARE NOT SURE ABOUT SOMETHING, ASK! :)
 
 ## Operation
 
