@@ -72,7 +72,7 @@ You can see an example of the procedure here: [Making a PLA sheet at Fab Lab Bar
 
 **TROUBLESHOOTING**
 
-- **Plates are not heating:** Timer **(d)** not set. | Power indicators **(e+g)** not illuminated. | Emergency power off mushroom button **(c)** engaged.
+- **Plates are not heating:** Timer **(d)** not set. | Power indicators **(e+g)** not illuminated. | Emergency power off mushroom button **(c.)** engaged.
 - **Press is creating fumes or smoke:** Check that the temperatures are set correctly for the material being used. | Check no plastic material is in direct contact with heated plates.
 
 **USEFUL INFORMATION AND TIPS**
@@ -85,18 +85,18 @@ These are some of the settings tested for the different thermoplastics to create
 ## Maintenance
 Borrowed from Precious Plastic: [Sheetpress Maintenance by Precious Plastic](https://onearmy.github.io/academy/build/sheetpressrun#-maintain)
 
-**WEEKLY**
-- **Clean the heating plates:** Scrape any remiant material from the heating plates. You may need to use a high volume alcohol if there is heavy corrosion
-- **Grease rails:** Use a wooden spatula to apply a liberal amount of grease to all the rails.
+**WEEKLY**  
+- **Clean the heating plates:** Scrape any remiant material from the heating plates. You may need to use a high volume alcohol if there is heavy corrosion.  
+- **Grease rails:** Use a wooden spatula to apply a liberal amount of grease to all the rails.  
 
-**MONTHLY**
-- **Inspect and replace mould sheets:** Inspect your mould sheets, if any of them are damaged beyond repair then they may need replacing.
-- **Check website for hacks/updates:** The community are continuously developing hacks, modifications and techniques which get shared on the internet, take a look to see what is there that can help or inspire you!
+**MONTHLY**  
+- **Inspect and replace mould sheets:** Inspect your mould sheets, if any of them are damaged beyond repair then they may need replacing.  
+- **Check website for hacks/updates:** The community are continuously developing hacks, modifications and techniques which get shared on the internet, take a look to see what is there that can help or inspire you!  
 
-**YEARLY**
-- **Deep clean heating plates:** Scrape any remiant material from the heating plates. You may need to use a high volume alcohol if there is heavy corrosion. You may also need to use a rotary sander to remove tough burnt on material but be gentle, use a high grit sandpaper (>220) to preserve the flatness of the sheet.
-- **Check oil in jacks:** Bleed and replace the oil in the jacks.
-- **Check electronics:** Check the resistance of your elements on each of the three phases is equal to the number of heating elements attached to each phase. If it does not one of your heating elements may be broken, use a thermal camera to check. Check all the components inside the enclosure for visual signs of melting/burning and replace anything that appears damaged. Re paint worn areas Check the body panels and frame for signs of ware, repaint any exposed metal to protect it from corrosion.
+**YEARLY**  
+- **Deep clean heating plates:** Scrape any remiant material from the heating plates. You may need to use a high volume alcohol if there is heavy corrosion. You may also need to use a rotary sander to remove tough burnt on material but be gentle, use a high grit sandpaper (>220) to preserve the flatness of the sheet.  
+- **Check oil in jacks:** Bleed and replace the oil in the jacks.  
+- **Check electronics:** Check the resistance of your elements on each of the three phases is equal to the number of heating elements attached to each phase. If it does not one of your heating elements may be broken, use a thermal camera to check. Check all the components inside the enclosure for visual signs of melting/burning and replace anything that appears damaged. Re paint worn areas Check the body panels and frame for signs of ware, repaint any exposed metal to protect it from corrosion.  
 
 ## External resources
 
