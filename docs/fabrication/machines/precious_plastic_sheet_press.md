@@ -19,7 +19,7 @@ date: "12/09/2022"
 - **Work area:** Laser cutting room 
 - **Materials:** Thermoplastics (PLA, HDPE, LDPE, PET, PP, PS...), biomaterials, other
 - **Technology:** Heating, pressing, moulding
-- **Machine parts:**  ///MACHINE PARTS DIAGRAM///
+- **Machine parts:**  ///MACHINE PARTS DIAGRAM///  
 
 ## Applications
 
@@ -28,13 +28,13 @@ date: "12/09/2022"
   - Using the heated platforms to melt a material.
 
 ![](../../assets/sheetpress_applications.jpg)
-Precious Plastic sheet examples. | PLA cuttlery by Dídac Torrent [(@torrent.fab).](https://www.instagram.com/torrent.fab/) | Birdhouse by Adai Suriñach (unknown design).
+Precious Plastic sheet examples | PLA cuttlery by Dídac Torrent [(@torrent.fab)](https://www.instagram.com/torrent.fab/) | Birdhouse by Adai Suriñach (unknown design)  
 
 ## Health & Safety
 
-<ins>CAUTION: This machine is highly exposed to the user. The platforms can reach very hot temperatures (over 300°C), so it is important to be well protected and to follow the operating instructions.</ins>
+<ins>CAUTION: This machine is highly exposed to the user. The platforms can reach very hot temperatures (over 300°C), so it is important to be well protected and to follow the operating instructions.</ins>  
 
-- **Safety information:**
+**Safety information:**
   - Be always aware of the temperature of both platforms.
   - Use <ins>welding gloves</ins> to manipulate anything between the two platforms of the press when the heat is ON.
   - Some thermoplastics expel toxic fumes when melted. Use <ins>safety goggles</ins> and <ins>mask</ins> if needed.
@@ -42,7 +42,7 @@ Precious Plastic sheet examples. | PLA cuttlery by Dídac Torrent [(@torrent.fab
   - Don't use more pressure than what is needed. This could damage the machine.
   - Don't use earphones. Being able to hear and smell is fundamental when using Precious Plastic machines.
   - Safety button just turns off the machine, but platforms take long to cool down.
-  - IF YOU HAVE ANY DOUBT OR YOU ARE NOT SURE ABOUT SOMETHING, ASK! :)
+  - IF YOU HAVE ANY DOUBT, ASK! :)  
 
 ## Operation
 
@@ -68,7 +68,7 @@ Precious Plastic sheet examples. | PLA cuttlery by Dídac Torrent [(@torrent.fab
 **14.** Alternatively you can take out the mould and allow the sheet to cool externally.  
 **15.** Once everything has cooled down, clean the aluminium sheet and mould and make sure the machine is ready to use.  
 
-You can see an example of the procedure here: [Making a PLA sheet at Fab Lab Barcelona by Dídac Torrent](https://www.instagram.com/reel/CiSu4QyAFjV/)
+You can see an example of the procedure here: [Making a PLA sheet at Fab Lab Barcelona by Dídac Torrent](https://www.instagram.com/reel/CiSu4QyAFjV/)  
 
 **TROUBLESHOOTING**
 
@@ -80,7 +80,7 @@ You can see an example of the procedure here: [Making a PLA sheet at Fab Lab Bar
 - Don't retract the plate further than you need as the jack moves in very small increments and it takes a long time to raise the plate.
 
 ## Materials settings
-These are some of the settings tested for the different thermoplastics to create sheets of different thicknesses.
+These are some of the settings tested for the different thermoplastics to create sheets of different thicknesses.  
 
 ## Maintenance
 Borrowed from Precious Plastic: [Sheetpress Maintenance by Precious Plastic](https://onearmy.github.io/academy/build/sheetpressrun#-maintain)
@@ -96,7 +96,7 @@ Borrowed from Precious Plastic: [Sheetpress Maintenance by Precious Plastic](htt
 **YEARLY**  
 - **Deep clean heating plates:** Scrape any remiant material from the heating plates. You may need to use a high volume alcohol if there is heavy corrosion. You may also need to use a rotary sander to remove tough burnt on material but be gentle, use a high grit sandpaper (>220) to preserve the flatness of the sheet.  
 - **Check oil in jacks:** Bleed and replace the oil in the jacks.  
-- **Check electronics:** Check the resistance of your elements on each of the three phases is equal to the number of heating elements attached to each phase. If it does not one of your heating elements may be broken, use a thermal camera to check. Check all the components inside the enclosure for visual signs of melting/burning and replace anything that appears damaged. Re paint worn areas Check the body panels and frame for signs of ware, repaint any exposed metal to protect it from corrosion.  
+- **Check electronics:** Check the resistance of your elements on each of the three phases is equal to the number of heating elements attached to each phase. If it does not one of your heating elements may be broken, use a thermal camera to check. Check all the components inside the enclosure for visual signs of melting/burning and replace anything that appears damaged. Re paint worn areas Check the body panels and frame for signs of ware, repaint any exposed metal to protect it from corrosion.    
 
 ## External resources
 
