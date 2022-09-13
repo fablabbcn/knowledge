@@ -11,7 +11,7 @@ date: "12/09/2022"
 
 # Precious Plastic Sheetpress
 
-![](../../assets/sheet-press-01.jpg)
+![](../../assets/sheetpress_cover.jpg)
 
 ## Technical specifications
 
