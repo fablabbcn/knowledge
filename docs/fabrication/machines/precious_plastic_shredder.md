@@ -5,9 +5,9 @@ tags:
   - experimental
   - material processing
   - fabrication
-description: "The precious plastics shredder!"
-author: "Christy Cairns"
-date: "20/06/2022"
+description: "The Precious Plastics Shredder!"
+author: "Christy Cairns and Dídac Torrent"
+date: "13/09/2022"
 ---
 
 # Precious Plastic Shredder
@@ -16,10 +16,11 @@ date: "20/06/2022"
 
 ## Technical specifications
 
-- **Brand: Precious Plastic / Fab Lab Barcelona** 
-- **Work area: Fab Lab** 
-- **Materials: Woods, Fabrics, Plastics (see "Applications" for further information)**
-- **Technology: Shredding, Material processing**
+- **Brand:** Fab Lab Barcelona (concept by Precious Plastic)  
+- **Work area:** Laser cutting room
+- **Materials:** Plastics, wood, fabrics, other
+- **Technology:** Shredding, grinding
+- **Machine parts:** ///MACHINE PARTS DIAGRAM///
 
 ## Applications
 
