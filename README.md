@@ -1,5 +1,7 @@
 # Fab Lab Barcelona Knowledge Hub
 
+[![SpellChecker](https://github.com/fablabbcn/knowledge/actions/workflows/spell-check.yml/badge.svg)](https://github.com/fablabbcn/knowledge/actions/workflows/spell-check.yml)
+
 The project main documentation available at https://knowledge.fablabbcn.org
 
 ## Easy Usage

@@ -1,0 +1,24 @@
+name: Spell Check
+
+# See: https://docs.github.com/en/free-pro-team@latest/actions/reference/events-that-trigger-workflows
+on:
+  push:
+    branches-ignore: [ gh-pages ]
+  pull_request:
+    branches-ignore: [ gh-pages ]
+  schedule:
+    # Run every Tuesday at 8.44 AM UTC to catch new misspelling detections resulting from dictionary updates. Note from GH docs: The schedule event can be delayed during periods of high loads of GitHub Actions workflow runs. High load times include the start of every hour. To decrease the chance of delay, schedule your workflow to run at a different time of the hour.
+    - cron: "44 8 * * TUE"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Spell check
+        uses: codespell-project/actions-codespell@master
