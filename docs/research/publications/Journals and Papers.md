@@ -20,7 +20,7 @@ https://www.raco.cat/index.php/Temes/article/view/373819
 Real, M., & Calvo, M. (2019, October). Boosting co-creation practices in makespaces to support the design of more empowering and circular food systems at a neighbourhood scale. In ERSCP 2019 (Vol. 1, pp. p-831).
 https://hal.archives-ouvertes.fr/hal-02387713/
 
-Unceta, P. M., Hausleitner, B., & Dąbrowski, M. (2020). Socio-spatial segregation and the spatial structure of ‘ordinary’activities in the Global South. Urban Planning, 5(3), 303-318.
+Munoz-Unceta, P., Hausleitner, B., & Dąbrowski, M. (2020). Socio-spatial segregation and the spatial structure of ‘ordinary’activities in the Global South. Urban Planning, 5(3), 303-318.
 https://www.cogitatiopress.com/urbanplanning/article/view/3047
 
 Mahajan, S., Kumar, P., Camprodon, G., ... & Forino, G. (2020). A citizen science approach for enhancing public understanding of air pollution. Sustainable Cities and Society, 52, 101800.
