@@ -1,5 +1,12 @@
 # Academic Journals and Papers
 
+## 2021 🚧
+
+Munoz-Unceta, P., Mashhoodi, B. (2022). Mobility, electricity, and parking data for EV infrastructure in the Amsterdam Metropolitan Area, Data in Brief, Volume 42, 2022, 108270, ISSN 2352-3409,
+https://doi.org/10.1016/j.dib.2022.108270
+
+Furlan, C., Wandl, A., Cavalieri, C., Munoz-Unceta, P. (2022). Territorialising Circularity. In: Amenta, L., Russo, M., van Timmeren, A. (eds) Regenerative Territories. GeoJournal Library, vol 128. Springer, Cham. https://doi.org/10.1007/978-3-030-78536-9_2 
+
 ## 2020
 
 Pistofidou, A., Real, M., & Juarez Calvo, M. (2020). Remix El Barrio: A Co-Creation Journey to Foster Innovative Ecosystems Crafting and Micro-Fabricating with Food Surplus and Waste. Creative Food Cycles-Book 1, 185-195.
