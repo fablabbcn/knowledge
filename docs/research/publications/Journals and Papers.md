@@ -4,6 +4,9 @@
 
 Burdiles, I., Dominguez, X., Real, M., Fuentemilla, S., Pistofidou, A. (2022). Remix The School Project : Socio-Emotional Learning through Biomaterial making: A Methodology for Self-Awareness through Bio-material fabrication for teachers and children. In 6th FabLearn Europe / MakeEd Conference 2022 (FabLearn Europe / MakeEd 2022). Association for Computing Machinery, New York, NY, USA, Article 15, 1–5. https://doi.org/10.1145/3535227.3535242
 
+Bilgin, A. S., Molina Ascanio, M., Milanovic, I., Kirsch, M., Beernaert, Y., Sotiriou, S., Gregori Montaner, A., Cornakov, S., Velner, G., Axisa, J. , Wellens, T., Muscat, M., Vaidelis, G., Messaritou, M., Goździk, A., Castilla Mora, L., Ivanova, I., Dariou, E., Yuste, A., Preda, E., Quarta, B., B. Domínguez, X., Kesting, F., Katikas, L., Mitic-Radulovic, A., Gras-Velazquez, A. (2022), STEM in the future: Transforming education for sustainability, Scientix Observatory, October 2022.
+http://files.eun.org/scientix/Bilgin_et_al_2022_STEM_in_the_Future_Final-to-publish-2.pdf
+
 ## 2021 🚧
 
 Munoz-Unceta, P., Mashhoodi, B. (2022). Mobility, electricity, and parking data for EV infrastructure in the Amsterdam Metropolitan Area, Data in Brief, Volume 42, 2022, 108270, ISSN 2352-3409,
