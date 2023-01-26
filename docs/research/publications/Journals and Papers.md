@@ -1,5 +1,9 @@
 # Academic Journals and Papers
 
+## 2022
+
+Burdiles, I., Dominguez, X., Real, M., Fuentemilla, S., Pistofidou, A. (2022). Remix The School Project : Socio-Emotional Learning through Biomaterial making: A Methodology for Self-Awareness through Bio-material fabrication for teachers and children. In 6th FabLearn Europe / MakeEd Conference 2022 (FabLearn Europe / MakeEd 2022). Association for Computing Machinery, New York, NY, USA, Article 15, 1–5. https://doi.org/10.1145/3535227.3535242
+
 ## 2021 🚧
 
 Munoz-Unceta, P., Mashhoodi, B. (2022). Mobility, electricity, and parking data for EV infrastructure in the Amsterdam Metropolitan Area, Data in Brief, Volume 42, 2022, 108270, ISSN 2352-3409,
