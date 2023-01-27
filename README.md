@@ -26,10 +26,16 @@ Python3 Virtual Env (recommended):
 
 `pip install -r requirements.txt`
 
+_In Windows if it fails use `pip install -r requirements.txt --user` instead._
+
 ### Edit
 
 `mkdocs serve --livereload`
 
+_In Windows if it fails use `python -m mkdocs serve --livereload` instead._
+
 ### Deploy
 
-`mkdocs gh-deploy`
+Deploy is done by default via Github Action. See `/.github/workflows/main.yml`. 
+
+For custom installations you can use `mkdocs gh-deploy`.
