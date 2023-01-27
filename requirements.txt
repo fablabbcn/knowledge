@@ -1,6 +1,7 @@
 mkdocs
-mkdocs-material<5.5.12
+mkdocs-material>8
 mkdocs-material-extensions
 mkdocs-macros-plugin
 mkdocs-plugin-tags
-#mkdocs-with-pdf
+GitPython
+requests==2.26.0
