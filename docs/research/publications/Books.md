@@ -1,5 +1,7 @@
 # Books
 
+A. Deserti, M. Real, F. Schmittinger.(ed.) (2022). Co-creation for Responsible Research and Innovation: Experimenting with Design Methods and Tools. Springer Nature. (ISBN:  978-3-030-78732-5) [Download PDF](https://library.oapen.org/bitstream/id/4bdeb1c7-014a-408f-a905-98e99d6938a6/978-3-030-78733-2.pdf)
+
 K. Armstrong, T. Diez, P. Sanchez Toribio, M. Rodriguez, M. Reyes (ed.) (2021). This is
 Distributed Design: Making a new local & global design paradigm. Barcelona, Spain: Fab Lab Barcelona, Institute for Advanced Architecture of Catalonia (IAAC). (ISBN: 978-84-617-2454-3) [Download PDF](https://distributeddesign.eu/wp-content/uploads/2022/06/This-Is-Distributed-Design-Book-2021.pdf)
 
