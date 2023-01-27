@@ -2,6 +2,8 @@
 
 ## 2022
 
+Gerodimou, Maria Dafni, Chamorro, Eduardo, & Fuentemilla, Santiago. (2022). Developing maker-centred learning programs to promote critical thinking about technology and design for emergent futures. Proceedings of the Fab 17 Research Papers Stream, 145–159. https://doi.org/10.5281/zenodo.7432107
+
 Burdiles, I., Dominguez, X., Real, M., Fuentemilla, S., Pistofidou, A. (2022). Remix The School Project : Socio-Emotional Learning through Biomaterial making: A Methodology for Self-Awareness through Bio-material fabrication for teachers and children. In 6th FabLearn Europe / MakeEd Conference 2022 (FabLearn Europe / MakeEd 2022). Association for Computing Machinery, New York, NY, USA, Article 15, 1–5. https://doi.org/10.1145/3535227.3535242
 
 Bilgin, A. S., Molina Ascanio, M., Milanovic, I., Kirsch, M., Beernaert, Y., Sotiriou, S., Gregori Montaner, A., Cornakov, S., Velner, G., Axisa, J. , Wellens, T., Muscat, M., Vaidelis, G., Messaritou, M., Goździk, A., Castilla Mora, L., Ivanova, I., Dariou, E., Yuste, A., Preda, E., Quarta, B., B. Domínguez, X., Kesting, F., Katikas, L., Mitic-Radulovic, A., Gras-Velazquez, A. (2022), STEM in the future: Transforming education for sustainability, Scientix Observatory, October 2022.
