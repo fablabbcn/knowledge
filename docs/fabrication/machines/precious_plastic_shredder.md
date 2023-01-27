@@ -37,14 +37,14 @@ Application is determined by the thickeness of material vs the strength of the m
 
 **Danger from sharp blades** - Be careful of the blades when cleaning material from the blades. Where possible use a tool rather than your hands.
 
-**Danger from circumventing safety protocols** - There are protocols in place to help prevent the above dangers. Do not attempt to circumvent these in the opperation of the machine.
+**Danger from circumventing safety protocols** - There are protocols in place to help prevent the above dangers. Do not attempt to circumvent these in the operation of the machine.
 
-## Opperation
+## Operation
 
 ![](../../assets/shredder-controls-01.jpg)
 
 a. main power key switch
-b. power and opperation indicator light (yellow when powered, green when opperating) 
+b. power and operation indicator light (yellow when powered, green when operating) 
 c. direction switch
 d. warning/error indicator light
 e. reset button
@@ -65,13 +65,13 @@ f. emergancy power off mushroom button
 
 ## Maintenance
 
-Under normal opperation the main mainenace required is cleaning out any material after use. This should be done by the user as part of the use of the machine. 
+Under normal operation the main mainenace required is cleaning out any material after use. This should be done by the user as part of the use of the machine. 
 
 ## Useful information
 
  - Fit the mesh to the underside of the machine. This can be tricky but is a nessacery step. 
- - It is possible to run the machine backwards to clear material with the direction switch. This is a manual opperation and works for the duration of the switch being held in the direction.
- - The machine will automatically cut off when the motor is overloaded and the red light will illuminate to notify the opperator of an issue. 
+ - It is possible to run the machine backwards to clear material with the direction switch. This is a manual operation and works for the duration of the switch being held in the direction.
+ - The machine will automatically cut off when the motor is overloaded and the red light will illuminate to notify the operator of an issue. 
  - The lid of the shredder has an electronic cutoff that prevents that motor from working while the lid is open. 
 
 ### External resources
@@ -83,5 +83,5 @@ Under normal opperation the main mainenace required is cleaning out any material
 ## Troubleshooting
 
 - Blades don’t grab the plastic - Run the machine backward to jostle the material, anti-clockwise on the direction switch **(c.)** // Reposition the material in the shredder by hand when the machine is off.  
-- THe Blades stop turnning mid opperation - Is the red light **(d.)** illuminated? This indicates the motor is overloaded. Switch off machine and remove material or run the machine backwards.
-- Machine will not turn on // blades do not turn - Check that the emergancy stop mushroom button **(f.)** is not apllied. // Check that the lid is correctly closed so that the magnetic safety cut-off is connected. 
+- THe Blades stop turnning mid operation - Is the red light **(d.)** illuminated? This indicates the motor is overloaded. Switch off machine and remove material or run the machine backwards.
+- Machine will not turn on // blades do not turn - Check that the emergancy stop mushroom button **(f.)** is not applied. // Check that the lid is correctly closed so that the magnetic safety cut-off is connected. 

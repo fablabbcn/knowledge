@@ -61,7 +61,7 @@ Precious Plastic sheet examples | PLA cuttlery by Dídac Torrent [(@torrent.fab)
 **7.** Place the mould frame on the bottom aluminium sheet.  
 **8.** Load the plastic into the mould.  
 **9.** Spread the plastic evenly across the area inside the mould frame. It's recommended to put slightly less material around a 100mm border offset on the inside of the edges.  
-**10.** Oil the other part of the mould (that comes inside of the frame) and place the oiled side facing down on top of the spreaded plastic.  
+**10.** Oil the other part of the mould (that comes inside of the frame) and place the oiled side facing down on top of the spread plastic.  
 **11.** Close the pressing plates using the bottle jack until the pressure gauge reads the desired pressure. <ins>Do not exceed 5 tons.</ins>  
 **12.** Keep monitoring the pressure. Plastic reduces its size when it melts.  
 **13.** When the mould has been in the Sheetpress for the required melting time, switch off the Sheetpress and allow to cool in situ.  
