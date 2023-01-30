@@ -1,5 +1,9 @@
 # Papers and Posters
 
+## 2023
+
+Mashhoodi, B., & Muñoz-Unceta, P. (2023). Regional allocation of EV chargers’ grid load. Annals of GIS, 0(0), 1–15. https://doi.org/10.1080/19475683.2023.2166111
+
 ## 2022 🚧
 
 Gerodimou, M.D., Chamorro-Martin, E., & Fuentemilla, S. (2022). Developing maker-centred learning programs to promote critical thinking about technology and design for emergent futures. Proceedings of the Fab 17 Research Papers Stream, 145–159. https://doi.org/10.5281/zenodo.7432107
