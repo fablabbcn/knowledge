@@ -6,6 +6,8 @@ Mashhoodi, B., & Muñoz-Unceta, P. (2023). Regional allocation of EV chargers’
 
 ## 2022 🚧
 
+Solanas, O., Usart, M., Valls, C., Domínguez, X. (2022). Metodología STEAM-Maker en primaria: un estudio mixto. Publicado en el libro de actas "Educación transformadora en un mundo digital: Conectando paisajes de aprendizaje" (pg 272-274) del XXV Congreso Internacional Edutec 2022. https://edutec2022.uib.es/libro-de-actas/
+
 Gerodimou, M.D., Chamorro-Martin, E., & Fuentemilla, S. (2022). Developing maker-centred learning programs to promote critical thinking about technology and design for emergent futures. Proceedings of the Fab 17 Research Papers Stream, 145–159. https://doi.org/10.5281/zenodo.7432107
 
 Ferro, C., Muñoz Unceta, P., Fontana Valenti, C., Jusic, I., Cingolani, F., Diez Ladera, T., & Parikh, M. (2022). Fab City Hubs: Interfaces for community building and playgrounds for new innovative urban actions. Proceedings of the Fab 17 Research Papers Stream, 19–34. https://doi.org/10.5281/zenodo.7432052
