@@ -4,4 +4,4 @@ mkdocs-material-extensions
 mkdocs-macros-plugin
 mkdocs-plugin-tags
 GitPython
-requests==2.26.0
+requests==2.31.0
