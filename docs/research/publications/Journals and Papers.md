@@ -2,6 +2,9 @@
 
 ## 2023 🚧
 
+Nadal, O. and Domínguez,X. (2023). Integration of the maker movement in the classroom: a practical experience in the first year of an educational project. UTE Teaching & Technology (Universitas Tarraconensis), (1), e3566.
+https://doi.org/10.17345/ute.2023.3566
+
 Mashhoodi, B., & Muñoz-Unceta, P. (2023). Regional allocation of EV chargers’ grid load. Annals of GIS, 0(0), 1–15. https://doi.org/10.1080/19475683.2023.2166111
 
 ## 2022 🚧
