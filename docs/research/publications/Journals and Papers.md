@@ -1,5 +1,9 @@
 # Papers and Posters
 
+## 2024
+
+Panneels, I., Lechelt, S., Schmidt, A., & Coşkun, A. (2024). Data-driven innovation for sustainable practice in the creative economy. https://doi.org/10.4324/9781003365891-11
+
 ## 2023 🚧
 
 Nadal, O. and Domínguez,X. (2023). Integration of the maker movement in the classroom: a practical experience in the first year of an educational project. UTE Teaching & Technology (Universitas Tarraconensis), (1), e3566.
