@@ -1,4 +1,64 @@
-# Suppliers
+# Suppliers 
+
+!!! info "The following work-in-progress (WIP) table contains our top (online) materials suppliers. For a more in-depth list, including local providers, please refer to the "Legacy Suppliers" section below."
+
+| URL                               | Category             | Type of Materials/Products                 |
+|-----------------------------------|----------------------|--------------------------------------------|
+| https://3djake.es                 | 3D Printing          | 3D printers, filaments, accessories        |
+| https://anycubic.es               | 3D Printing          | 3D printers, resins, filaments             |
+| https://bambulab.com              | 3D Printing          | 3D printers, software, filaments           |
+| https://createc3d.com             | 3D Printing          | 3D printers, filaments, spare parts        |
+| https://eu.store.bambulab.com     | 3D Printing          | 3D printers, filaments, parts              |
+| https://plotteralia.es            | 3D Printing          | 3D printers, filaments, tools              |
+| https://shop.revopoint3d.com      | 3D Printing          | 3D scanners, accessories                   |
+| https://digikey.es                | Electronics          | Electronic components, semiconductors      |
+| https://diotronic.com             | Electronics          | Electronic components, development boards  |
+| https://es.farnell.com            | Electronics          | Electronic components, industrial supplies |
+| https://es.rs-online.com          | Electronics          | Electronic components, tools, test equipment |
+| https://mouser.es                 | Electronics          | Electronic components, semiconductors      |
+| https://tienda.bricogeek.com      | Specialty Stores     | Robotics kits, electronics components      |
+| Ferretería Bonet S.L.             | DIY and Tools        | Local Hardware Store C/ de Pere IV, 102, Sant Martí, 08005 Barcelona |
+| https://bauhaus.es                | DIY and Tools        | Tools, building materials, home improvement |
+| https://carbidedepot.com          | DIY and Tools        | Carbide tools, cutting tools               |
+| https://leroymerlin.es            | DIY and Tools        | Tools, building materials, garden supplies |
+| https://manomano.es               | DIY and Tools        | Tools, home improvement, garden supplies   |
+| https://mausa.es                  | DIY and Tools        | Tools, hardware, industrial supplies       |
+| https://milbby.com                | DIY and Tools        | Craft supplies, art materials              |
+| https://abacus.coop               | General Retail       | Books, stationery, educational materials   |
+| https://compraonline.alcampo.es   | General Retail       | Groceries, household items                 |
+| https://ikea.com                  | General Retail       | Furniture, home goods, decor               |
+| https://pccomponentes.com         | General Retail       | Electronics, computer hardware, peripherals |
+| https://feroca.com                | Materials and Supplies          | Resin, silicone, molds, casting materials |
+| https://formx.es                  | Materials and Supplies          | Special effects materials, resins, silicones |
+| https://gabarro.com               | Materials and Supplies          | Wood, timber, panels, veneer           |
+| https://quimicsdalmauonline.com   | Materials and Supplies          | Chemicals, laboratory supplies         |
+| https://rajapack.es               | Materials and Supplies          | Packaging materials, boxes, tapes      |
+| https://supermagnete.es           | Materials and Supplies          | Magnets, magnetic systems              |
+| https://alfasoni.com              | Specialty Stores                | Audio and music equipment              |
+| https://casadefieras.es           | Specialty Stores                | Handcrafted goods, artisanal products  |
+| https://cremas-caseras.es         | Specialty Stores                | Homemade cosmetic ingredients and kits |
+| https://distrigraf.com            | Specialty Stores                | Printing and graphic arts supplies     |
+| https://eltallerdelmodelista.com  | Specialty Stores                | Model kits, model making supplies      |
+| https://forniturasdelarosa.com    | Specialty Stores                | Jewelry making supplies, beads, tools  |
+| https://grown.bio                 | Specialty Stores                | Sustainable materials, mycelium products |
+| https://grupofb.es                | Specialty Stores                | Industrial supplies, hardware          |
+| https://naturitas.es              | Specialty Stores                | Natural health products, supplements   |
+| https://pidiscat.cat              | Specialty Stores                | Laboratory and scientific equipment        |
+| https://pulpoensutinta.com        | Specialty Stores                | Printing services, custom prints       |
+| https://ractem.es                 | Specialty Stores                | Office furniture, storage solutions    |
+| https://ratrig.com                | Specialty Stores                | CNC machines, aluminum profiles        |
+| https://robotopia.es              | Specialty Stores                | Robotics kits, educational robots      |
+| https://rubiomonocoat.es          | Specialty Stores                | Wood finishes, oils, coatings          |
+| https://serveiestacio.com         | Specialty Stores                | Stationery, art supplies               |
+| https://suministrosdublan.net     | Specialty Stores                | Industrial supplies, maintenance products |
+| https://tiendacables.com          | Specialty Stores                | Cables, connectors, electronics components |
+| https://ultra-lab.net             | Specialty Stores                | Digital fabrication tools, maker supplies |
+
+This table organizes the URLs according to their respective categories.
+
+# Legacy Suppliers
+
+!!! info "The following table needs to be udpated and merge with the previous one."
 
 | Name                                | Webpage                                                                                              | Address                                                                                                 | Telephone                         | Email                           | Contact                                 |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------- | --------------------------------------- |
