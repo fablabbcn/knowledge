@@ -3,7 +3,9 @@
 ## 2024
 
 González, Ó., Calvo Juarez, M., & Guy, J. (2024, August 5). An inquiry into Fab Labs as enablers for environmental protection initiatives. Fab 24 "Fabricating Equity" Research Papers (Fab24), Puebla, Mexico. https://doi.org/10.5281/zenodo.13221337
+
 Calvo Juarez, M., Real, M., & Dal Cin, G. (2024, August 5). From industrial neighbourhoods to regenerative territories: blueprinting the practices of (emerging) distributed networks of fabrication. Fab 24 "Fabricating Equity" Research Papers (Fab24), Puebla, Mexico. https://doi.org/10.5281/zenodo.13221335
+
 Panneels, I., Lechelt, S., Schmidt, A., & Coşkun, A. (2024). Data-driven innovation for sustainable practice in the creative economy. https://doi.org/10.4324/9781003365891-11
 
 ## 2023 🚧
