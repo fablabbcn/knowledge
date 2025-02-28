@@ -1,6 +1,6 @@
 # Papers and Posters
 
-## 2024
+## 2024 🚧
 
 González, Ó., Calvo Juarez, M., & Guy, J. (2024, August 5). An inquiry into Fab Labs as enablers for environmental protection initiatives. Fab 24 "Fabricating Equity" Research Papers (Fab24), Puebla, Mexico. https://doi.org/10.5281/zenodo.13221337
 
@@ -8,14 +8,14 @@ Calvo Juarez, M., Real, M., & Dal Cin, G. (2024, August 5). From industrial neig
 
 Panneels, I., Lechelt, S., Schmidt, A., & Coşkun, A. (2024). Data-driven innovation for sustainable practice in the creative economy. https://doi.org/10.4324/9781003365891-11
 
-## 2023 🚧
+## 2023
 
 Nadal, O. and Domínguez,X. (2023). Integration of the maker movement in the classroom: a practical experience in the first year of an educational project. UTE Teaching & Technology (Universitas Tarraconensis), (1), e3566.
 https://doi.org/10.17345/ute.2023.3566
 
 Mashhoodi, B., & Muñoz-Unceta, P. (2023). Regional allocation of EV chargers’ grid load. Annals of GIS, 0(0), 1–15. https://doi.org/10.1080/19475683.2023.2166111
 
-## 2022 🚧
+## 2022
 
 Solanas, O., Usart, M., Valls, C., Domínguez, X. (2022). Metodología STEAM-Maker en primaria: un estudio mixto. Publicado en el libro de actas "Educación transformadora en un mundo digital: Conectando paisajes de aprendizaje" (pg 272-274) del XXV Congreso Internacional Edutec 2022. https://edutec2022.uib.es/libro-de-actas/
 
