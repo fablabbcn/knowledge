@@ -1,5 +1,7 @@
 # Books
 
+S. Bourdon, J. Bertolaso, J. Guy, G. Camprodon, M. Reyes (ed.) (2023). Driving Design II: Collective approaches Driving enriching design principles. Barcelona, Spain: Fab Lab Barcelona, Institute for Advanced Architecture of Catalonia (IAAC). (ISBN: 978-84-120886-4-9) [Download PDF](https://drive.google.com/file/d/1Fn0Il3spLcQ6d3Mdjzsl3H1SaOcS04O1/view)
+
 S. Bourdon, J. Guy, S. Bosch, G. Camprodon, M. Reyes (ed.) (2023). Driving Design: Collective approaches Driving enriching design principles. Barcelona, Spain: Fab Lab Barcelona, Institute for Advanced Architecture of Catalonia (IAAC). (ISBN: 978-84-120886-2-5) [Download PDF](https://distributeddesign.eu/wp-content/uploads/2023/05/DDP_DrivingDesign.pdf)
 
 A. Deserti, M. Real, F. Schmittinger.(ed.) (2022). Co-creation for Responsible Research and Innovation: Experimenting with Design Methods and Tools. Springer Nature. (ISBN:  978-3-030-78732-5) [Download PDF](https://library.oapen.org/bitstream/id/4bdeb1c7-014a-408f-a905-98e99d6938a6/978-3-030-78733-2.pdf)
