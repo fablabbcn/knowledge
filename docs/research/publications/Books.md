@@ -2,6 +2,8 @@
 
 S. Bourdon, J. Bertolaso, J. Guy, G. Camprodon, M. Reyes (ed.) (2025). Driving Design III: Collective approaches Driving enriching design principles. Barcelona, Spain: Fab Lab Barcelona, Institute for Advanced Architecture of Catalonia (IAAC). (ISBN: 978-84-120886-6-3) [Download PDF](https://distributeddesign.eu/wp-content/uploads/2025/03/2025_A4_DD-Book_c.pdf)
 
+M. Real, M. Calvo, T. Diez, F. Ritter, J. Even-Zohar, C. Fontana Valenti, F. Cingolani, C. Olivotto, C. Becker, A. Pazaitis (ed.) (2024). Regenerative Neighbourhoods in the Making, CENTRINNO Handbook. Barcelona, Spain: Fab Lab Barcelona, Institute for Advanced Architecture of Catalonia (IAAC). (ISBN: 978-84-120886-5-6) [Download PDF](https://4029714156-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MaY3xJCRdTaQBT1sU2C%2Fuploads%2FZi99NrQOsnhHjc0b7AOl%2FCentrinno_Handbook_A5_compressed.pdf?alt=media&token=ab75b15b-8fe0-485e-ab81-5877a32ed0e1)
+
 S. Bourdon, J. Bertolaso, J. Guy, G. Camprodon, M. Reyes (ed.) (2024). Driving Design II: Collective approaches Driving enriching design principles. Barcelona, Spain: Fab Lab Barcelona, Institute for Advanced Architecture of Catalonia (IAAC). (ISBN: 978-84-120886-4-9) [Download PDF](https://drive.google.com/file/d/1Fn0Il3spLcQ6d3Mdjzsl3H1SaOcS04O1/view)
 
 S. Bourdon, J. Guy, S. Bosch, G. Camprodon, M. Reyes (ed.) (2023). Driving Design: Collective approaches Driving enriching design principles. Barcelona, Spain: Fab Lab Barcelona, Institute for Advanced Architecture of Catalonia (IAAC). (ISBN: 978-84-120886-2-5) [Download PDF](https://distributeddesign.eu/wp-content/uploads/2023/05/DDP_DrivingDesign.pdf)
